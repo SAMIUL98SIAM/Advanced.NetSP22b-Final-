@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee85e479-8f74-4636-ac17-a32cc5fe064b": {
+      "ProjectGuid": "ee85e479-8f74-4636-ac17-a32cc5fe064b",
+      "DisplayName": "WebApiAppClass1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
