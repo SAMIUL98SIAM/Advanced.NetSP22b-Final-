@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b638c104-84b6-4c58-aa1f-5776b9131279": {
+      "ProjectGuid": "b638c104-84b6-4c58-aa1f-5776b9131279",
+      "DisplayName": "TireApp",
+      "ColorIndex": 0
+    },
+    "e359e30a-7580-4956-a26a-16fb091f9787": {
+      "ProjectGuid": "e359e30a-7580-4956-a26a-16fb091f9787",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "2c665a72-b41b-40e7-99fa-7d267080ed6b": {
+      "ProjectGuid": "2c665a72-b41b-40e7-99fa-7d267080ed6b",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    },
+    "9d5080bb-fb40-4df1-a3f0-7220200b2f8e": {
+      "ProjectGuid": "9d5080bb-fb40-4df1-a3f0-7220200b2f8e",
+      "DisplayName": "DApp",
+      "ColorIndex": 3
+    },
+    "8961e3a2-46ad-4797-a8ad-2bd398e3ffe1": {
+      "ProjectGuid": "8961e3a2-46ad-4797-a8ad-2bd398e3ffe1",
+      "DisplayName": "WebApp",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

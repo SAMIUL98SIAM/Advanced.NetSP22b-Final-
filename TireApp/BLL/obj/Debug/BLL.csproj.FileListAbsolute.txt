@@ -1,0 +1,14 @@
+E:\.Net Final\TireApp\BLL\bin\Debug\BLL.dll
+E:\.Net Final\TireApp\BLL\bin\Debug\BLL.pdb
+E:\.Net Final\TireApp\BLL\bin\Debug\AutoMapper.dll
+E:\.Net Final\TireApp\BLL\bin\Debug\DAL.dll
+E:\.Net Final\TireApp\BLL\bin\Debug\EntityFramework.dll
+E:\.Net Final\TireApp\BLL\bin\Debug\DAL.pdb
+E:\.Net Final\TireApp\BLL\bin\Debug\DAL.dll.config
+E:\.Net Final\TireApp\BLL\bin\Debug\AutoMapper.xml
+E:\.Net Final\TireApp\BLL\bin\Debug\EntityFramework.xml
+E:\.Net Final\TireApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\.Net Final\TireApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\.Net Final\TireApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\.Net Final\TireApp\BLL\obj\Debug\BLL.dll
+E:\.Net Final\TireApp\BLL\obj\Debug\BLL.pdb
